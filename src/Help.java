@@ -4,8 +4,7 @@
 public class Help {
     public static void main(String[] arg) {
         System.out.println("F");
-        Fucking Shit
-    }
+        System.out.println("{b[b[b");
 
 }
 
