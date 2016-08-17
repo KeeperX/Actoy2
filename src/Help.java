@@ -4,6 +4,7 @@
 public class Help {
     public static void main(String[] arg) {
         System.out.println("F");
+        Fucking Shit
     }
 
 }
